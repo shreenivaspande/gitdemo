@@ -1,5 +1,5 @@
 package gitDemoCommands;
 
-public class home {
+public class gitdemo {
 
 }
